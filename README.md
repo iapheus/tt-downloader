@@ -1,25 +1,23 @@
 
-# Project Title
+# TT Downloader
 
-A brief description of what this project does and who it's for
+A website that allows users to download TikTok videos individually or in bulk and save their favorite videos directly in the browser.
 
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="https://github.com/iapheus/tt-downloader/blob/main/image/tt-downloader.png" height="300" />
 
 
 ## Features
 
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
+- Video downloading via URL and profile
+- Adding video to favorites
 
 
 ## Demo
 
-Insert gif or link to demo
+https://tt-downloader-lac.vercel.app/
 
 
 ## Run Locally
@@ -27,13 +25,13 @@ Insert gif or link to demo
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/iapheus/tt-downloader.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd tt-downloader
 ```
 
 Install dependencies
@@ -45,10 +43,12 @@ Install dependencies
 Start the server
 
 ```bash
-  npm run start
+  npm run dev
 ```
 
 
-## License
+## License and Attribution
 
-[GNU AGPLv3](https://choosealicense.com/licenses/agpl-3.0/)
+This project uses TikTok API by TikWM.
+
+[MIT](https://choosealicense.com/licenses/mit/)
